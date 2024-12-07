@@ -2,8 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "**/*",
+      "src": "image-compressor/**/*",
       "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/image-compressor/$1"
     }
   ]
 } 
