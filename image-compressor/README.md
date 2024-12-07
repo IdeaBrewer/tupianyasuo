@@ -40,3 +40,19 @@
   - JSZip (批量下载打包)
 
 ## 项目结构 
+
+## 部署方式
+
+### Vercel 部署
+1. 使用 GitHub 账号登录 [Vercel](https://vercel.com)
+2. 点击 "Add New..." -> "Project"
+3. 导入 GitHub 仓库
+4. 配置部署选项：
+   - Framework: Other
+   - Root Directory: ./
+5. 点击 "Deploy"
+
+访问地址：[图片压缩工具](https://tupianyasuo-git-main-ideabrewers-projects.vercel.app)
+
+### 本地开发
+1. 克隆项目
