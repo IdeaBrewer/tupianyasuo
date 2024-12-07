@@ -52,7 +52,7 @@
    - Root Directory: ./
 5. 点击 "Deploy"
 
-访问地址：[图片压缩工具](https://tupianyasuo-git-main-ideabrewers-projects.vercel.app)
+访问地址：[图片压缩工具](https://tupianyasuo-ten-pi.vercel.app/)
 
 ### 本地开发
 1. 克隆项目
